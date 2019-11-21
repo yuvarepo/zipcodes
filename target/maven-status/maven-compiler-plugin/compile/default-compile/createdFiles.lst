@@ -1,0 +1,6 @@
+io\ws\zipcodes\service\GenericService.class
+io\ws\zipcodes\service\impl\ZipCodeServiceImpl.class
+io\ws\zipcodes\ZipCodeApplication.class
+io\ws\zipcodes\exception\ZipcodeException.class
+io\ws\zipcodes\model\ZipCode.class
+io\ws\zipcodes\service\ZipCodeService.class
